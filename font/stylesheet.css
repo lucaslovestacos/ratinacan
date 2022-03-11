@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'Atkinson';
-    src: url('atkinsonhyperlegible-regular-webfont.woff2') format('woff2'),
-         url('atkinsonhyperlegible-regular-webfont.woff') format('woff');
+    src: url('https://github.com/lucaslovestacos/ratinacan/blob/main/font/atkinsonhyperlegible-regular-webfont.woff2?raw=true') format('woff2'),
+         url('https://github.com/lucaslovestacos/ratinacan/blob/main/font/atkinsonhyperlegible-regular-webfont.woff?raw=true') format('woff');
     font-weight: normal;
     font-style: normal;
 
